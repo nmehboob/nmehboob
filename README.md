@@ -32,13 +32,3 @@ Python (NumPy, SciPy, Pandas, Matplotlib) · MATLAB · C/C++ · Git · Angular �
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nmehboob&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=nmehboob&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nmehboob&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=nmehboob&icon=0&color=0)](https://visitcount.itsvg.in)
