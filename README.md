@@ -40,20 +40,6 @@ Power systems coursework covering protection schemes, economic dispatch, and gri
 
 ---
 
-### 🤖 AI Engineering Roadmap, Month 1
-**Hands-on LLM application development**
-
-Working through a structured AI engineering roadmap. Month 1 focused on building practical applications with open-source LLMs through the Groq API, learning prompt engineering patterns, and understanding API integration fundamentals.
-
-- Built working applications using Groq and Llama 3.3 as the inference backend
-- Practiced prompt engineering, structured outputs, and basic tool use
-- API integration, error handling, and rate-limit management
-- Building toward RAG and agent-based systems in later months
-
-**Tech:** Python, Groq API, Llama 3.3, Prompt Engineering
-
----
-
 ### 📊 Trebel Corp Business Intelligence Dashboard
 **Sales, marketing, and customer analytics**
 
