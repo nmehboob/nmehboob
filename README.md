@@ -1,10 +1,11 @@
-Hi there, I'm Mahboob 👋
-Electrical Engineer | Embedded Systems | IoT | Control Engineering | BI & Data Analytics
+**Hi there, I'm Mahboob 👋**
+**Electrical Engineer | Embedded Systems | IoT | Control Engineering | BI & Data Analytics**
+
 I'm an electrical engineer specializing in embedded systems and IoT, currently pursuing my M.Sc. in Control, Microsystems and Microelectronics at Universität Bremen. I build solutions where code meets hardware, from real-time sensor systems to power grid analysis. My work spans firmware development, signal processing, and full-stack applications, with a focus on turning complex hardware problems into reliable, deployable systems.
 📍 Location: Bremen, Germany
-📧 Email: [your email]
-🔗 GitHub: @[your handle]
-🔗 LinkedIn: [your linkedin]
+📧 Email: nnmehboob1233@gmail.com
+💼 GitHub: @nmehboob
+🔗 LinkedIn: https://www.linkedin.com/in/mahboobnawaz1/
 
 🚀 Featured Projects
 📡 IoT Vibration Monitoring System
