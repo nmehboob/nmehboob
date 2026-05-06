@@ -90,6 +90,7 @@ Production Software Experience – Daily Angular work on complex real-time appli
 
 📫 Let's Connect
 I'm interested in roles combining embedded systems, IoT, and control engineering, especially in industrial automation, energy systems, or any application where reliable hardware meets intelligent software.
+
 📧 Email: nnmehboob1233@gmail.com
 💼 GitHub: @nmehboob
 🔗 LinkedIn: https://www.linkedin.com/in/mahboobnawaz1/
