@@ -1,7 +1,7 @@
 # Hi there, I'm Mahboob 👋
 **Electrical Engineer | Embedded Systems | IoT | Control Engineering | BI & Data Analytics**
 
-I'm an electrical engineer specializing in embedded systems and IoT, currently pursuing my M.Sc. in Control, Microsystems and Microelectronics at Universität Bremen. I build solutions where code meets hardware, from real-time sensor systems to power grid analysis. My work spans firmware development, signal processing, and full-stack applications, with a focus on turning complex hardware problems into reliable, deployable systems.
+I'm an electrical engineer with hands-on experience in embedded systems and IoT, currently pursuing my M.Sc. in Control, Microsystems and Microelectronics at Universität Bremen. I work on projects where code meets hardware — from sensor-based monitoring systems to power grid analysis — and enjoy bridging firmware, signal processing, and software development to build systems that actually work end-to-end.
 
 📍 **Location:** Bremen, Germany  
 📧 **Email:** nnmehboob1233@gmail.com  
@@ -27,12 +27,12 @@ Built an ESP32-based vibration monitoring system that captures real-time acceler
 ---
 
 ### ⚡ Power Systems Protection & Optimization
-**Grid analysis and protection coordination**
+**Grid analysis and protection coursework, M.Sc.**
 
-Comprehensive power systems work covering protection schemes, economic dispatch, and grid stability analysis. Implemented distance protection algorithms, solved optimal power flow problems, and analyzed transient stability for realistic transmission networks.
+Power systems coursework covering protection schemes, economic dispatch, and grid stability analysis. Implemented distance protection logic, set up and solved optimal power flow problems, and ran transient and small-signal stability studies on standard test networks.
 
 - Distance protection coordination for transmission lines
-- Economic Dispatch and Optimal Power Flow (OPF) solvers
+- Economic Dispatch and Optimal Power Flow (OPF) formulations
 - Transient and small-signal stability analysis
 - Network modeling and fault simulation in DIgSILENT PowerFactory
 
@@ -43,14 +43,14 @@ Comprehensive power systems work covering protection schemes, economic dispatch,
 ### 🤖 AI Engineering Roadmap, Month 1
 **Hands-on LLM application development**
 
-Working through a structured AI engineering roadmap targeting AI Engineer and Full-Stack AI Developer roles. Month 1 focused on building practical applications with open-source LLMs, prompt engineering, and API integration patterns.
+Working through a structured AI engineering roadmap. Month 1 focused on building practical applications with open-source LLMs through the Groq API, learning prompt engineering patterns, and understanding API integration fundamentals.
 
-- Built working applications using Groq and Llama 3.3 as primary inference backend
-- Prompt engineering, structured outputs, and tool use patterns
+- Built working applications using Groq and Llama 3.3 as the inference backend
+- Practiced prompt engineering, structured outputs, and basic tool use
 - API integration, error handling, and rate-limit management
-- Foundation work for RAG, agents, and production AI systems
+- Building toward RAG and agent-based systems in later months
 
-**Tech:** Python, Groq API, Llama 3.3, LangChain, Prompt Engineering
+**Tech:** Python, Groq API, Llama 3.3, Prompt Engineering
 
 ---
 
@@ -69,9 +69,9 @@ Built BI dashboards and reporting workflows at Trebel Corp covering sales perfor
 ---
 
 ### 🎛️ Control Systems: Rotary Inverted Pendulum
-**Advanced controller design and comparison**
+**Advanced controller design, M.Sc. coursework**
 
-Designed and compared multiple advanced controllers for a rotary inverted pendulum, a classic nonlinear unstable system. Implemented LQR, LQG, and H∞ controllers and analyzed trade-offs between optimality, robustness, and noise rejection.
+Coursework project designing and comparing controllers for a rotary inverted pendulum, a classic nonlinear unstable system. Implemented LQR, LQG, and H∞ controllers in MATLAB/Simulink and compared trade-offs between optimality, robustness, and noise rejection.
 
 - State-space modeling and linearization
 - LQR optimal control design
@@ -110,12 +110,12 @@ DIgSILENT PowerFactory · Simulink · MATLAB · Git · Power BI · Advanced Exce
 
 ## 🎯 What I Bring
 
-I work at the intersection of hardware and software, where most engineers stop at one side. My background spans real-time embedded systems, control theory, and modern web development, which means I can take a project from sensor data to a production dashboard without handing off between disciplines.
+I work at the intersection of hardware and software. My background spans embedded systems, control theory, and modern web development, which means I'm comfortable moving between firmware, signal processing, and application code on the same project.
 
-- **Hardware-Software Bridge** – Comfortable from firmware to frontend, with the systems thinking to design across the full stack
-- **Validated Track Record** – IGNITE-funded IoT project demonstrates ability to deliver fundable, real-world hardware
-- **Control Engineering Foundation** – Rigorous mathematical background in modeling, optimization, and robust system design
-- **Production Software Experience** – Daily Angular work on complex real-time applications, not just academic projects
+- **Hardware-Software Bridge** – Comfortable across the stack, from ESP32 firmware to Angular frontends
+- **Validated Track Record** – IGNITE-funded IoT project demonstrates ability to build real, fundable hardware
+- **Control & Signal Processing Foundation** – Solid mathematical background in modeling, FFT-based analysis, and controller design
+- **Day-to-Day Software Experience** – Daily Angular work on a real-time, multi-user application alongside academic projects
 
 ---
 
